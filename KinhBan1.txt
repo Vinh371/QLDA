@@ -1,0 +1,10 @@
+B1: git clone https://github.com/Vinh371/QLDA.git
+B2: git cd QLDA
+B3: sửa file
+B4: git status
+B5: git add
+B6: git commit -m "QLDA"
+B7: git push origin main
+
+
+
